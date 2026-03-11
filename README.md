@@ -1,5 +1,10 @@
 # Axiom AI - Next-Gen Data Intelligence Platform
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 A premium, high-fidelity landing page for an advanced AI and data analytics platform. This project showcases a futuristic, immersive user interface with complex animations, 3D mockups, and high-density information layouts.
 
 ## ✨ Key Features
