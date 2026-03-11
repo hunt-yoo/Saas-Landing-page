@@ -1,0 +1,19 @@
+/// <reference types="vite/client" />
+
+interface Window {
+  aistudio?: {
+    hasSelectedApiKey: () => Promise<boolean>;
+    openSelectKey: () => Promise<void>;
+  };
+}
+
+declare namespace NodeJS {
+  interface ProcessEnv {
+    GEMINI_API_KEY?: string;
+    API_KEY?: string;
+  }
+}
+
+declare var process: {
+  env: NodeJS.ProcessEnv;
+};
