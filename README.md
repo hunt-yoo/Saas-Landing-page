@@ -20,15 +20,6 @@ A premium, high-fidelity landing page for an advanced AI and data analytics plat
 - **Animations**: [Framer Motion](https://motion.dev/)
 - **Icons**: [Lucide React](https://lucide.dev/)
 
-## 📂 Project Structure
-
-- `src/components/layout/Navbar.tsx`: The main navigation bar with scroll-spy functionality.
-- `src/components/blocks/HeroSection.tsx`: The landing page hero section ("Unleash the Future of Data Intelligence").
-- `src/components/blocks/ProductShowcase.tsx`: The "Solutions" section featuring the 3D dashboard mockup and interactive feature cards.
-- `src/components/blocks/FeaturesBento.tsx`: The "Platform" section utilizing a Bento Box layout with advanced SVG animations.
-- `src/components/blocks/InfoCarouselSection.tsx`: The "How to Use" section with an interactive carousel.
-- `src/components/ui/GlassCard.tsx`: Reusable glassmorphism card component.
-
 ## 🚀 Getting Started
 
 ### Prerequisites
